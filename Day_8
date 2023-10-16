@@ -1,0 +1,15 @@
+package hari8;
+
+public class Main {
+    
+    public static void main(String[] args) {
+        int aku,dia,yanglain;
+        aku = 1;
+        dia = 2;
+        yanglain = 2;
+        System.out.println(aku == dia);
+        System.out.println(dia == yanglain);
+        System.out.println("yaa begitulah kehidupan");
+    }
+    
+}
