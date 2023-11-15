@@ -8,9 +8,9 @@ public class Main {
         b ="321";
         c ="343";
         
-        int d =Integer.parseInt(b);
-        double e = Double.parseDouble(a);
-        float f = Float.parseFloat(c);
+        int d =Integer.parseInt(b);//konversi string ke integer
+        double e = Double.parseDouble(a);//konversi string ke double
+        float f = Float.parseFloat(c);//konversi string ke float
         System.out.println(d+"\n"+e+"\n"+f);
     }
     
