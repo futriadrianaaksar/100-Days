@@ -8,16 +8,16 @@ public class Main {
     b = new BigInteger("356000000");
     c = new BigInteger("450000000");
     d = new BigInteger("500000000");
-    e = a.add(b);
+    e = a.add(b);//penambahan
     System.out.println(e);
-    f = a.multiply(b);
+    f = a.multiply(b);//perkaliam
     System.out.println(f);
-    f = a.multiply(c);
+    f = a.multiply(c);//perkalian
     System.out.println(f);
-    f = a.multiply(d);
+    f = a.multiply(d);//perkalian
     System.out.println(f);
-    j = d.subtract(c);
-    k =c.divide(a);
+    j = d.subtract(c);//pengurangan
+    k =c.divide(a);//pembagian
     System.out.println(j+"\n"+k);
     }
     
