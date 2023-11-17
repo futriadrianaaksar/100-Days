@@ -1,5 +1,5 @@
 package Day16;
-import java.math.BigDecimal;
+import java.math.BigDecimal;   //float dan double
 public class Main {
     
     public static void main(String[] args) {
