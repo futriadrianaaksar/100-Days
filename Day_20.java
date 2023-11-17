@@ -8,7 +8,8 @@ public class Main {
         final double bb = 50.1;
         final float tb = 160.1f;
         final short jarak = 45;
-
+        //nilainya bisa di ubah kecuali di update
+        
         System.out.println ("Harga hpnya\t: "+harga_hp+"\nUmur\t\t: "+umur+"\nBerat badan \t: "+bb+"\nTinggi badan \t: "+tb+"\nJarak ke kampus\t: "+jarak+"km");
     }
     
