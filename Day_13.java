@@ -16,8 +16,8 @@ public class Main {
         
         //buat sebuah program yang menghitung luas persegi panjang dengan meminta input panjang dan lebar dari pengguna
         int panjang,lebar,hasil;
-        System.out.print("Panjang : ");
-        panjang = Futri.nextInt();
+        System.out.print("Panjang : ");  //deklarasi variabel
+        panjang = Futri.nextInt();       //pemanggilannya
         System.out.print("Lebar : ");
         lebar = Futri.nextInt();
         hasil = panjang*lebar;
