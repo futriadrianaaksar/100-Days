@@ -18,7 +18,7 @@ public class Main {
         }else if(umur > 50 ){
             System.out.println("fase nenek nenek");
         }else{
-            System.out.println("Hanya dapat menampung angka ");
+            System.out.println(" ");
             
         }
             
