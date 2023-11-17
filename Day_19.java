@@ -9,7 +9,8 @@ public class Main {
         double ipk;
 
 
-        // inisialisasi variabel
+        // inisialisasi variabel 
+        //langsung di masukkan nilainya
         String nama = "Futri";
         byte umur = 19;
         float  beratbadan = 50.1f;
