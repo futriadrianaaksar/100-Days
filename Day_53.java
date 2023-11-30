@@ -6,7 +6,7 @@ public class Main {
         System.out.println(text);
     }
     public static void main(String[] args) {
-        String text = "Sehat selalu buat para mentor : ) ";
+        String text = "Sehat selalu kakak mentor : ) ";
         Futri(text);
     }
 }
