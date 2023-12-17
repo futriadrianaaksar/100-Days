@@ -1,0 +1,11 @@
+package Futri;
+public class data {
+    
+    public static void main(String []args){
+        Bio data = new Bio();
+        data.nama = "Futri";
+        data.nim = "D0223009";
+        data.umur = 19;
+        data.hasil();
+    }
+}
